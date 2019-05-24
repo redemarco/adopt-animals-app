@@ -1,0 +1,44 @@
+
+.logo
+
+{
+    width: 40%;
+height: auto;
+}
+
+.backimage
+
+{
+    background-image: "Assets/background-image.jpg" alt="logo-image" 
+}
+
+.selected
+{
+    background-color: blue
+}
+
+.Main-title
+
+{
+    margin-left: 45%
+}
+
+.card
+
+{
+   
+    margin: 2%;
+}
+
+.row
+
+{
+    margin-left: 5%
+}
+
+ .carousel-item
+{
+    width: 30%;
+    height: 20%;
+    
+}
