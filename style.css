@@ -54,6 +54,11 @@ body
     width: 30%;
     height: 30%;
 }
+body
+
+{
+    background-image: url("Assets/HomePage.jpg")
+}
 
 .btn-outline-dark
 {
