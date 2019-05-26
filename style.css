@@ -6,21 +6,34 @@
 height: auto;
 }
 
-.backimage
+body
 
 {
-    background-image: "Assets/background-image.jpg" alt="logo-image" 
+    background-color: white
 }
 
 .selected
 {
-    background-color: blue
+    margin-bottom: 4%;
+    
 }
 
+.non-selected
+{
+    padding-bottom: 0px;
+    
+}
+
+.non-selected:hover
+{
+    
+    padding-bottom: 5px;
+    transition: all 0.5s ease-out;
+}
 .Main-title
 
 {
-    margin-left: 45%
+    margin-left: 45%;
 }
 
 .card
@@ -33,12 +46,46 @@ height: auto;
 .row
 
 {
-    margin-left: 5%
+    margin-left: 5%;
 }
 
- .carousel-item
+.carousel-inner
 {
     width: 30%;
-    height: 20%;
+    height: 30%;
+}
+
+.btn-outline-dark
+{
+    margin-left: 80%
+}
+
+.b1
+{
+    background-image: url("Assets/HomePage.jpg");
+    
+    }
+
+.macho
+{
+    padding-left: 23%;
+}
+.hembra
+
+{
+    padding-left: 23%;
+}
+
+.sexo
+{
+    padding-left: 6%;
+}
+
+ .descp
+{
+    width: 79%;
+    margin-left: 21%;
     
 }
+
+
