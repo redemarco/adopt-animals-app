@@ -54,22 +54,6 @@ body
     width: 30%;
     height: 30%;
 }
-body
-
-{
-    background-image: url("Assets/HomePage.jpg")
-}
-
-.btn-outline-dark
-{
-    margin-left: 80%
-}
-
-.b1
-{
-    background-image: url("Assets/HomePage.jpg");
-    
-    }
 
 .macho
 {
@@ -93,4 +77,12 @@ body
     
 }
 
+.pet-name
+{
+    padding-left: 50%;
+}
 
+.pet-info
+{
+    padding-left: 2%;
+}
